@@ -48,8 +48,3 @@ Se plantean 3 KPI's:
     - En el incumplimiento del KPI se nota un aumento atipico de la cantidad de accidentes siendo que en lugar de reducir un 7% aumentaron un 70%, esta cifra atípica puede estar influenciada por las restricciones de movilidad impuestas debido a la pandemia.
 - Reducir en un 15% la cantidad de accidentes mortales de peatones que son personas mayores respecto al año anterior.
     - El cumplimiento del KPI de reducción del 15% se ha logrado de manera satisfactoria. La disminución de la cifra de 16 accidentes mortales en el año base a 13 en el año actual indica un progreso significativo en la protección de esta población vulnerable.
-
-    
-
-# PI_DA
-# PI_DA
